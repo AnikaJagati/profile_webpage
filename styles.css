@@ -1,0 +1,25 @@
+.first{
+ background-color: white;
+ padding-left: 150px;
+ padding-right: 50px;
+ padding-top: 30px;
+ color:rgb(78, 148, 189); 
+ padding-bottom: 30px;
+
+}
+.second{
+    color: white;
+    width:550px;
+    margin-right: 0%;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 150px;
+    background-color:rgb(78, 148, 189); 
+}
+.parent{
+    display: flex;
+    padding-top: 20px;
+}
+
+.fa{
+    color: rgb(78, 148, 189); }
